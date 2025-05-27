@@ -73,7 +73,7 @@ pause
 goto MENU
 
 :ELIMINAR_TODAS
-echo ❗ Esto eliminará todas las impresoras (menos la XPS).
+echo ❗ Esto eliminará todas las impresoras  (menos la XPS).
 pause
 wmic printer where "Name != 'Microsoft XPS Document Writer'" delete
 echo ✅ Impresoras eliminadas.
