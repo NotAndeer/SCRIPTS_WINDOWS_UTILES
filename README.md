@@ -13,6 +13,8 @@ SCRIPTS_WINDOWS_UTILES es una colección de scripts en formato .bat diseñados p
 🛡️ Mantenimiento preventivo para garantizar un sistema estable y rápido.
 
 Cada script ha sido probado en entornos reales para asegurar su eficacia y seguridad.
+
+
 ⚠️ Requisitos y Advertencias
 Permisos de administrador: La mayoría de los scripts requieren ser ejecutados con privilegios de administrador para funcionar correctamente. Haz clic derecho sobre el archivo y selecciona "Ejecutar como administrador".
 
